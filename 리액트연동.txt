@@ -1,0 +1,42 @@
+
+
+리액트 노드 연동
+
+
+Node.js 배우기
+https://totally-developer.tistory.com/99
+
+리액트 노드 설치
+https://phsun102.tistory.com/23
+ 1) 노드 설치(LTS 버전)
+  https://nodejs.org/ko
+  경로: C:\Program Files\nodejs\
+
+  노드버전 확인 node -v
+ 
+  npm 버전 확인 npm -v
+
+  2) Yarn 설치 (아래 페이지 참조)
+   https://classic.yarnpkg.com/en/docs/install#windows-stable
+   명령어: npm install --global yarn
+
+ 3) 리액트 프로젝트 생성
+  명령어: npx create-react-app test-project
+
+  해당 프로젝트 있는 디렉토리 이동후 명령어로 시작
+  명령어: npm start
+  
+ 아래 경로로 리액트 앱이 실행됨
+  http://localhost:3000/
+
+ 4) VS Code 설치
+  설치가이드
+   https://crazykim2.tistory.com/748
+
+  설치파일 공식사이트
+   https://code.visualstudio.com/ 
+
+  한국어 설정
+   https://kcmschool.com/196
+  
+  
